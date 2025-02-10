@@ -1,0 +1,15 @@
+Host Name: ssh-us-3.vpnv.cc
+IP Address: 88.210.37.82
+Username: freevpn.us-phillemonejuma2027
+Password: phillemonejuma2027
+Expired: 2025-02-17 20:27:51
+Dropbear: 143, 444, 666, 5555, 701, 179
+Stunnel: 443, 110, 587
+Websocket: 80
+Websocket Payload: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+UDPGW: 7100, 7200, 7300, 7400, 7500, 7600, 7700
+Squid: 8080, 3128, 8000
+DNS Host Name: dns.ssh-us-3.vpnv.cc
+DNS Public Key: 9673e27b0ed9d3d11d6d439e24a928d575bb666807b0d088589d339906c58b6d
+TNL Config: https://www.freevpn.us/download/config/freevpn.us-phillemonejuma2027.tnl
+TNL APP: https://bit.ly/opentunnel_app
